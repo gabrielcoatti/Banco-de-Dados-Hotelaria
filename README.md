@@ -16,9 +16,9 @@
 
 
 📅 2025
-🔗 [https://github.com/gabrielcoatti
+🔗 [https://github.com/gabrielcoatti]
 
 ----
 
 📬 Contato
-- 💼 LinkedIn: [www.linkedin.com/in/gabrielcoatti)
+- 💼 LinkedIn: [www.linkedin.com/in/gabrielcoatti]
