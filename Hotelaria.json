@@ -1,0 +1,36 @@
+{
+  "reserva": {
+    "id": 10,
+    "checkin": "2025-06-10",
+    "checkout": "2025-06-15",
+    "status": "Confirmada",
+    "hospede": {
+      "id": 5,
+      "nome": "Ana Lima",
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 98765-4321",
+      "email": "ana.lima@email.com"
+    },
+    "quarto": {
+      "numero": "204",
+      "tipo": "Casal",
+      "valor_diaria": 150.00,
+      "descricao": "Quarto com vista para o mar"
+    },
+    "pagamento": {
+      "forma_pagamento": "Cartão de Crédito",
+      "valor_total": 750.00,
+      "status": "Pago"
+    },
+    "servicos_adicionais": [
+      {
+        "nome": "Café da manhã",
+        "valor": 0.00
+      },
+      {
+        "nome": "Translado aeroporto",
+        "valor": 100.00
+      }
+    ]
+  }
+}
